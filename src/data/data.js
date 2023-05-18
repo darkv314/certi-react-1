@@ -5,7 +5,7 @@ import tour4 from "../images/tour-4.jpeg";
 import tour5 from "../images/tour-5.jpeg";
 import tour6 from "../images/tour-6.jpeg";
 import paul from "../images/paul.jpg";
-import eynar from "../images/eynar.jpg";
+import eynar from "../images/Eynar.jpg";
 import alexis from "../images/alexis.jpg";
 import angular from "../images/angular.png";
 import react from "../images/react.jpg";
